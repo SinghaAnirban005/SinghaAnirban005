@@ -26,11 +26,11 @@ Welcome to my GitHub profile! I'm a passionate developer from India, constantly 
 
 - **Twitter:** Engaged with the tech community, learning and sharing knowledge
 - **Open Source:** Actively exploring various open-source programs
-- 
+
 ## 📫 Get in Touch
 
 - **Email:** anirbansingha20@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/anirban-singha-46a7b8296/]
-- **Twitter:** [(https://x.com/Aan00789423)]
+- **LinkedIn:** https://www.linkedin.com/in/anirban-singha-46a7b8296/
+- **Twitter:**  https://x.com/Aan00789423
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together!

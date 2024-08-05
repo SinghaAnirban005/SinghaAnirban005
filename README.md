@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer from India, constantly 
 ## 🛠️ Skills
 
 ### Frontend Development
-- **Languages:** HTML, CSS, JavaScript
+- **Languages:** JavaScript, Typescript, Java, C
 - **Frameworks & Libraries:** React.js, Redux Toolkit, Tailwind CSS
 - **Tools:** Real-time Editor (RTE), react-hook-form
 
